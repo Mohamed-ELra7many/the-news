@@ -1,0 +1,13 @@
+/*Dark Mode settings*/
+.toogle{
+    position: fixed;
+    left: 12px;
+    background-color: #1f243c;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.toogle i{
+    font-size: 30px;
+    color: #fff;
+}
